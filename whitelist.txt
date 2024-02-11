@@ -1,1 +1,6 @@
 api.radarr.video
+#WienerNetzeSmartmeter API
+smartmeter-web.wienernetze.at
+service.wienernetze.at
+api.wstw.at
+log.wien
