@@ -6,3 +6,5 @@ api.wstw.at
 log.wien
 #Drupal
 drupal.org
+#News
+derstandard.at
